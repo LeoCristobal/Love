@@ -18,6 +18,7 @@ yesBtn.addEventListener("click", () => {
     alert('Sana magkasama parin tayo sa tagumpay natin')
     alert('Ikaw lang gusto yung gusto kong makasama')
     alert("Sana di tayo mag sawa sa isa't isa")
+    alert('Again...')
   
 
     
